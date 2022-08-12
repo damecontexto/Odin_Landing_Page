@@ -1,1 +1,1 @@
-# Odin_Landing_Page
+Landing page for Odin Project fullstack developer course. Use of HTML and CSS.
