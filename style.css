@@ -54,7 +54,7 @@ ul{
 }
 
 .sub-header{
-    padding: 80px 150px 8px 150px;
+    padding: 80px 150px;
     display: flex;
     align-items: center;
     gap: 28px;
@@ -80,4 +80,36 @@ button {
     border-radius: 5px;
     padding: 5px 20px;
     margin-top: 8px;
+}
+
+.mid {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px 150px 80px 150px ;
+}
+
+.mid .title{
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
+    margin-bottom: 20px;
+}
+
+.container{
+    display: flex;
+    text-align: center;
+    gap: 20px;
+}
+
+.item{
+    box-sizing: border-box;
+}
+
+.mid img{
+    border-style: ridge;
+    border-color: #3882f6;
+    border-radius: 10px;
+    width: 100px;
+    height: 100px;
 }
