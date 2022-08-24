@@ -136,3 +136,34 @@ button {
     align-self: flex-end;
     font-weight: bold;
 }
+
+.bottom{
+    padding: 80px
+}
+
+.bottom .container{
+    background-color: #3882f6;
+    border-radius: 5px;
+    color: white;
+}
+
+.action{
+    display: flex;
+    flex: auto;
+    justify-content: space-between;
+    padding: 32px 70px;
+    text-align: start;
+    justify-content: space-between;
+}
+
+.bottom button{
+    border-color: white;
+    border-style: solid;
+    border-radius: 5px;
+    border-width: 2px;
+        
+}
+
+.bot-title{
+    font-weight: bold;
+}
