@@ -118,3 +118,21 @@ button {
 .mid .text{
     color: #54575a;
 }
+
+.quote{
+    background-color: #e5e7eb;
+    padding: 80px 150px;
+    display: flex;
+    flex-direction: column;
+}
+
+.quote .text{
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+}
+
+.quote .signature{
+    align-self: flex-end;
+    font-weight: bold;
+}
