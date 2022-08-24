@@ -167,3 +167,10 @@ button {
 .bot-title{
     font-weight: bold;
 }
+
+.footer{
+    background-color: #1f2937;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
